@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "Spooktober Dress Up",
+  "description": "Dress Up Vault",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Spooktober Dress Up",
+  "name": "Dress Up Vault",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Spooktober Dress Up",
+  "short_name": "Dress Up Vault",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,7 +48,7 @@
   ],
   "shortcuts": [
     {
-      "name": "Spooktober Dress Up",
+      "name": "Dress Up Vault",
       "url": "",
       "description": ""
     }
